@@ -1,2 +1,2 @@
 all:
-	g++ -Wfatal-errors main.cpp
+	g++ -Wfatal-errors main.cpp -o chirp
