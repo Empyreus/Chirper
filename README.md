@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Empyreus/Chirper.svg?branch=master)](https://travis-ci.org/Empyreus/Chirper)
+
 # Chirper
 
 Chirper is a console application that lets you share your short ideas and opinions, but protects the world from them.
